@@ -6,4 +6,4 @@ data analytics and software design.  See the
 at the College of ACES, or read about
 [course requirements](http://catalog.illinois.edu/undergraduate/aces/departments/crop-sci/cs-cpsc/).
 
-[View our current students](curentstudents.md)
+[View our current students](currentstudents.md)
