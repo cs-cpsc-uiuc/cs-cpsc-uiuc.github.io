@@ -3,7 +3,7 @@
 The template below should be removed once actual student profiles are added.
 
 ### Jane Student
-<img align="left" src="portraits/example.jpg", width="300", height="400">
+<img align="left" src="portraits/example.jpg" width="300" height="400">
 Expected graduation: May 2023<br>
 GitHub account: [lvclark](https://github.com/lvclark)<br>
 [LinkedIn Profile](https://www.linkedin.com/in/lindsay-clark-75539aa9/)<br>
