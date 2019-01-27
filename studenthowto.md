@@ -16,9 +16,9 @@ repository private and then decide later whether you want to make it public.
 
 You are encouraged (but not required!) to add a short biography/resume to
 the [Current Students](currentstudents.md) page.  You can clone
-https://github.com/cs-cpsc-uiuc/cs-cpsc-uiuc.github.io to your hard drive
+<https://github.com/cs-cpsc-uiuc/cs-cpsc-uiuc.github.io> to your hard drive
 and make edits from there, or edit through the web browser at
-https://github.com/cs-cpsc-uiuc/cs-cpsc-uiuc.github.io/blob/master/currentstudents.md.
+<https://github.com/cs-cpsc-uiuc/cs-cpsc-uiuc.github.io/blob/master/currentstudents.md>.
 You can upload a profile picture to the "portraits" folder of the website
 repository.  Contact Lindsay Clark to get added to the organization so that you
 have push access.
