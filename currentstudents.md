@@ -2,7 +2,7 @@
 
 The template below should be removed once actual student profiles are added.
 
-### Jane Student
+## Jane Student
 <img align="right" src="portraits/example.jpg" width="200" height="267">
 Expected graduation: May 2023<br>
 GitHub account: [lvclark](https://github.com/lvclark)<br>
