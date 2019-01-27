@@ -7,3 +7,7 @@ at the College of ACES, or read about
 [course requirements](http://catalog.illinois.edu/undergraduate/aces/departments/crop-sci/cs-cpsc/).
 
 [View our current students](currentstudents.md)
+
+## Student resources
+
+[How to build a student portfolio on GitHub](studenthowto.md)
