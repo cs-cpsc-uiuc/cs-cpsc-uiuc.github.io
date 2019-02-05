@@ -25,8 +25,9 @@ the [Current Students](currentstudents.md) page.  You can clone
 and make edits from there, or edit through the web browser at
 <https://github.com/cs-cpsc-uiuc/cs-cpsc-uiuc.github.io/blob/master/currentstudents.md>.
 You can upload a profile picture to the "portraits" folder of the website
-repository.  Contact Lindsay Clark to get added to the organization so that you
-have push access.
+repository.  The [profile template](profiletemplate.md) can be used to give
+you an idea of what to add to the Current Students page.  Contact Lindsay Clark
+to get added to the organization so that you have push access.
 
 In your profile on the Current Students page, the following items are
 recommended:
