@@ -11,3 +11,5 @@ at the College of ACES, or read about
 ## Student resources
 
 [How to build a student portfolio on GitHub](studenthowto.md)
+
+[The Illinois Center For Digital Agriculture](http://digitalag.ncsa.illinois.edu/), opening Fall 2019
